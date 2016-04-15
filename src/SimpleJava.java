@@ -37,6 +37,6 @@ public class SimpleJava {
 
             i++;
         }
-        System.out.println(result);
+        System.out.println("მაქსიმალური ინტერვალის სიგრძე არის: " + result);
     }
 }
